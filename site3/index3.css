@@ -1,0 +1,918 @@
+.body {
+margin-right: 0;
+font-family: 'Montserrat', sans-serif;
+}
+.container {
+margin: 0px 180px;
+}
+
+.header {
+position: relative;
+width: 1400px;
+height: 2557px;
+
+background: #FFEFEF;
+}
+
+.header-logo {
+position: absolute;
+width: 92px;
+height: 29px;
+left: 220px;
+top: 42px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 29px;
+
+text-transform: lowercase;
+
+color: #A8FF00;
+}
+
+.nav-racion{
+position: absolute;
+width: 56px;
+height: 22px;
+left: 641px;
+top: 45px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #A8FF00;
+}
+
+.nav-rabota{
+position: absolute;
+width: 134px;
+height: 22px;
+left: 761px;
+top: 45px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #A8FF00;
+}
+
+.nav-podobrat{
+position: absolute;
+width: 139px;
+height: 22px;
+left: 959px;
+top: 45px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #A8FF00;
+}
+
+.basket{
+position: realitive;
+}
+
+.basket-img {
+position: absolute;
+width: 20px;
+height: 22.5px;
+left: 1169px;
+top: 45px;
+}
+
+
+
+.header-down{
+position: realitive;
+}
+
+.header-title {
+position: absolute;
+width: 311px;
+height: 84px;
+left: 948px;
+top: 190px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 84px;
+text-transform: uppercase;
+
+color: #A8FF00;
+}
+
+.header-subtitle {
+position: absolute;
+width: 261px;
+height: 84px;
+left: 1019px;
+top: 256px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 84px;
+text-transform: uppercase;
+
+color: #A8FF00;
+}
+
+.header-suptitle {
+position: absolute;
+width: 189px;
+height: 44px;
+left: 1091px;
+top: 335px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+
+text-align: right;
+
+color: #FAFF00;
+}
+
+.header-img{
+position: absolute;
+width: 724px;
+height: 620px;
+left: 145px;
+top: 102px;
+}
+
+.header-bth{
+position: absolute;
+left: 1100px;
+top: 399px;
+
+width: 180px;
+height: 40px;
+
+background: linear-gradient(101.5deg, #8DB246 25.07%, #AED066 100.16%);
+
+box-shadow: 0px 10px 40px rgba(174, 208, 102, 0.4);
+border-radius: 30px;
+}
+
+.header-button{
+position: absolute;
+left: 16.67%;
+right: 16.11%;
+top: 22.5%;
+bottom: 22.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 22px;
+
+color: #DDFF9C;
+}
+
+.header-title2{
+position: absolute;
+width: 430px;
+height: 57px;
+left: 181px;
+top: 767px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 71px;
+
+color: #A8FF00;
+}
+
+.card-subtitle{
+position: absolute;
+width: 302px;
+height: 71px;
+left: 403px;
+top: 818px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 71px;
+
+color: #A8FF00;
+}
+
+.rectangle{
+position: absolute;
+width: 317px;
+height: 190px;
+left: 181px;
+top: 1107px;
+border-radius: 30px;
+
+background: #F7F7F7;
+}
+
+.card-img{
+position: absolute;
+width: 316.85px;
+height: 188px;
+left: 181px;
+top: 931px;
+
+background: url(life3.png);
+}
+
+.ellipse-variant{
+position: absolute;
+width: 44px;
+height: 44px;
+left: 422px;
+top: 1196px;
+border-radius: 30px;
+
+background: linear-gradient(101.5deg, #8DB246 25.07%, #AED066 100.16%);
+box-shadow: 0px 5px 20px rgba(174, 208, 102, 0.4);
+}
+
+.ellipse-title{
+position: absolute;
+width: 9px;
+height: 22px;
+left: 440px;
+top: 1207px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.card-title{
+position: absolute;
+width: 72px;
+height: 65px;
+left: 209px;
+top: 1132px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #A8FF00;
+}
+
+.card-desc{
+position: absolute;
+width: 191px;
+height: 69px;
+left: 209px;
+top: 1197px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.var-desc{
+position: absolute;
+width: 50px;
+height: 22px;
+left: 419px;
+top: 1240px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 22px;
+
+color: #DBFF00;
+}
+
+.rectangle2{
+position: absolute;
+width: 317px;
+height: 190px;
+left: 541px;
+top: 1106px;
+border-radius: 30px;
+
+background: #F6F6F6;
+}
+
+.card2-img{
+position: absolute;
+width: 317px;
+height: 190px;
+left: 541px;
+top: 929px;
+
+background: url(health3.png);
+}
+
+.ellipse-variant2{
+position: absolute;
+width: 44px;
+height: 44px;
+left: 782px;
+top: 1195px;
+border-radius: 30px;
+
+background: linear-gradient(101.5deg, #8DB246 25.07%, #AED066 100.16%);
+box-shadow: 0px 5px 20px rgba(174, 208, 102, 0.4);
+}
+
+.ellipse-title2{
+position: absolute;
+width: 9px;
+height: 44px;
+left: 800px;
+top: 1206px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.card2-title{
+position: absolute;
+width: 130px;
+height: 39px;
+left: 561px;
+top: 1153px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 22px;
+
+color: #A8FF00;
+}
+
+.card2-desc{
+position: absolute;
+width: 178px;
+height: 69px;
+left: 561px;
+top: 1195px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.var2-desc{
+position: absolute;
+width: 50px;
+height: 22px;
+left: 779px;
+top: 1239px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 22px;
+
+color: #DBFF00;
+}
+
+
+.rectangle3{
+position: absolute;
+width: 317px;
+height: 190px;
+left: 901px;
+top: 1105px;
+border-radius: 30px;
+
+background: #F6F6F6;
+}
+
+.card3-img{
+position: absolute;
+width: 316.85px;
+height: 188px;
+left: 901px;
+top: 929px;
+
+background: url(personal3.png);
+}
+
+.ellipse-variant3{
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1155px;
+top: 1195px;
+border-radius:30px;
+
+background: linear-gradient(101.5deg, #8DB246 25.07%, #AED066 100.16%);
+box-shadow: 0px 5px 20px rgba(174, 208, 102, 0.4);
+}
+
+.ellipse-title3{
+position: absolute;
+width: 13px;
+height: 22px;
+left: 1172px;
+top: 1205px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.card3-title{
+position: absolute;
+width: 168px;
+height: 65px;
+left: 929px;
+top: 1131px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #A8FF00;
+}
+
+.card3-desc{
+position: absolute;
+width: 210px;
+height: 69px;
+left: 929px;
+top: 1196px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.var3-desc{
+position: absolute;
+width: 50px;
+height: 22px;
+left: 1152px;
+top: 1239px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 22px;
+
+color: #DBFF00;
+}
+
+.header-title3{
+position: absolute;
+width: 167px;
+height: 71px;
+left: 167px;
+top: 1422px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 71px;
+
+color: #A8FF00;
+}
+
+.delivery-subtitle{
+position: absolute;
+width: 276px;
+height: 71px;
+left: 224px;
+top: 1473px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 71px;
+
+color: #A8FF00;
+}
+
+.vector{
+position: absolute;
+width: 960px;
+height: 0px;
+left: 207px;
+top: 1625px;
+
+border: 0.7px solid #A8FF00;
+transform: rotate(-0.03deg);
+}
+
+.ellipse-big{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 197px;
+top: 1615px;
+border-radius: 50%;
+
+background: #A8FF00;
+opacity: 0.15;
+}
+
+.ellipse-small{
+position: absolute;
+width: 4px;
+height: 4px;
+left: 205px;
+top: 1623px;
+
+background: #A8FF00;
+border-radius: 50%;
+}
+
+.ellipse-big2{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 566px;
+top: 1615px;
+
+background: #A8FF00;
+opacity: 0.15;
+border-radius: 50%;
+}
+
+.ellipse-small2{
+position: absolute;
+width: 4px;
+height: 4px;
+left: 574px;
+top: 1623px;
+
+background: #A8FF00;
+border-radius: 50%;
+}
+
+.ellipse-big3{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 941px;
+top: 1615px;
+
+background: #A8FF00;
+opacity: 0.15;
+border-radius: 50%;
+}
+
+.ellipse-small3{
+position: absolute;
+width: 4px;
+height: 4px;
+left: 949px;
+top: 1623px;
+
+background: #A8FF00;
+border-radius: 50%;
+}
+
+.delivery-img {
+position: absolute;
+width: 49px;
+height: 29px;
+left: 367px;
+top: 1590px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.delivery-suptitle{
+position: absolute;
+width: 175px;
+height: 22px;
+left: 205px;
+top: 1656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+
+color: #A8FF00;
+}
+
+.delivery-desc {
+position: absolute;
+width: 248px;
+height: 66px;
+left: 206px;
+top: 1707px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.delivery-suptitle2 {
+position: absolute;
+width: 192px;
+height: 22px;
+left: 566px;
+top: 1656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+
+color: #A8FF00;
+}
+
+.delivery-desc2 {
+position: absolute;
+width: 225px;
+height: 66px;
+left: 567px;
+top: 1707px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.delivery-suptitle3 {
+position: absolute;
+width: 292px;
+height: 22px;
+left: 941px;
+top: 1656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+
+color: #A8FF00;
+}
+
+.delivery-desc3 {
+position: absolute;
+width: 235px;
+height: 66px;
+left: 941px;
+top: 1707px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+
+
+
+.form{
+margin-left: auto;
+margin-right: auto;
+}
+
+.rectangle-form{
+position: absolute;
+width: 800px;
+height: 400px;
+left: 300px;
+top: 1893px;
+
+background: #F6F6F6;
+border-radius: 30px;
+}
+
+.form-subtitle{
+position: absolute;
+width: 405px;
+height: 45px;
+left: 354px;
+top: 1937px;
+
+font-family: 'EFN Wenecja';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 45px;
+
+color: #A8FF00;
+}
+
+.form-suptitle{
+position: absolute;
+width: 251px;
+height: 88px;
+left: 355px;
+top: 1994px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.form-rectangle {
+position: absolute;
+width: 260px;
+height: 40px;
+left: 354px;
+top: 2093px;
+
+background: #F1F1F1;
+box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.06);
+border-radius: 30px;
+}
+
+.rectangle-desc {
+position: absolute;
+
+
+position: absolute;
+width: 65px;
+height: 22px;
+left: 376px;
+top: 2102px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.form-rectangle2{
+position: absolute;
+width: 260px;
+height: 40px;
+left: 354px;
+top: 2147px;
+
+background: #F1F1F1;
+box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.06);
+border-radius: 30px;
+}
+
+.rectangle-desc2{
+position: absolute;
+width: 74px;
+height: 22px;
+left: 376px;
+top: 2156px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 22px;
+
+color: #FAFF00;
+}
+
+.form-button{
+position: absolute;
+background: linear-gradient(101.5deg, #8DB246 25.07%, #AED066 100.16%);
+box-shadow: 0px 10px 40px rgba(174, 208, 102, 0.4);
+border-radius: 30px;
+width: 180px;
+height: 40px;
+position: absolute;
+left: 354px;
+top: 2201px;
+}
+
+.subtitle-button{
+position: absolute;
+left: 382.67px;
+top: 2211.55px;
+bottom: 22.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 22px;
+
+color: #DDFF9C;
+}
+
+.colortext {
+color: #42FF00;
+}
+
+.desc-button{
+position: absolute;
+width: 212px;
+height: 30px;
+left: 550px;
+top: 2206px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+
+color: #FAFF00;
+}
+
+.ellipse-tarelka{
+position: absolute;
+width: 481px;
+height: 481px;
+left: 776px;
+top: 1852px;
+border-radius: 50%;
+
+background: #F1F1F1;
+
+box-shadow: -20px -20px 100px #FFFFFF, 20px 20px 100px rgba(0, 0, 0, 0.08), inset -20px -20px 60px rgba(255, 255, 255, 0.5), inset 20px 20px 60px rgba(0, 0, 0, 0.03);
+}
+
+
+.form-img{
+position: absolute;
+width: 381.14px;
+height: 378.39px;
+left: 826px;
+top: 1904px;
+border-radius: 50%;
+
+background: url(тарелка ankt .png);
+box-shadow: inset 10px 10px 40px rgba(0, 0, 0, 0.08);
+filter: drop-shadow(-10px -10px 40px #FFFFFF);
+}
+
+
+
