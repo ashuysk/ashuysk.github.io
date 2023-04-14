@@ -49,7 +49,7 @@ line-height: 17px;
 
 text-transform: uppercase;
 
-color: #636569;
+color: #000000;
 }
 
 .nav-rabota {
@@ -67,7 +67,7 @@ line-height: 17px;
 
 text-transform: uppercase;
 
-color: #636569;
+color: #000000;
 }
 
 .nav-podobrat{
@@ -85,7 +85,7 @@ line-height: 17px;
 
 text-transform: uppercase;
 
-color: #636569;
+color: #000000;
 }
 
 .basket{
@@ -108,7 +108,7 @@ position: realitive;
 position: absolute;
 width: 352px;
 height: 89px;
-left: 374px;
+left: 220px;
 top: 190px;
 
 font-family: 'Open Sans';
@@ -126,7 +126,7 @@ color: #000000;
 position: absolute;
 width: 308px;
 height: 89px;
-left: 609px;
+left: 220px;
 top: 260px;
 
 font-family: 'Open Sans';
@@ -144,8 +144,8 @@ color: #000000;
 position: absolute;
 width: 189px;
 height: 44px;
-left: 278px;
-top: 335px;
+left: 220px;
+top: 361px;
 
 font-family: 'Montserrat';
 font-style: normal;
@@ -155,54 +155,33 @@ line-height: 22px;
 
 text-transform: uppercase;
 
-color: #636569;
+color: #000000;
 }
 
-.header-suptitle:before {
-content: ' ';
-position: absolute;
-width: 40px;
-height: 0px;
-left: -59px;
-top: 11px;
 
-border: 0.7px solid #636569;
-} 
 
 .header-bth{
-height: 40px;
-width: 180px;
-left: 219px;
-top: 410px;
-
-
 position: absolute;
-bottom: 0%;
-
-background: #636569;
-
-box-shadow: 0px 10px 40px rgba(174, 208, 102, 0.4);
-border-radius: 30px;
+width: 160px;
+height: 40px;
+left: 220px;
+top: 417px;
 }
 
 .header-button {
 position: absolute;
-left: 16.67%;
-right: 16.11%;
-top: 22.5%;
-bottom: 22.5%;
-
-Width: 121px
-Height: 22px
-Top: 9px
-Left: 30px;
+width: 112px;
+height: 22px;
+left: 248px;
+top: 426px;
 
 font-family: 'Open Sans';
+font-style: normal;
 font-weight: 400;
 font-size: 12px;
 line-height: 22px;
 
-color: #C9C9C9;
+color: #FFFFFF;
 }
 
 
@@ -214,14 +193,15 @@ color: #C9C9C9;
 position: absolute;
 width: 453px;
 height: 75px;
-left: 427px;
-top: 559px;
+left: 220px;
+top: 561px;
 
 font-family: 'Open Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 55px;
 line-height: 75px;
+
 
 color: #000000;
 }
@@ -230,8 +210,8 @@ color: #000000;
 position: absolute;
 width: 334px;
 height: 75px;
-left: 427px;
-top: 613px;
+left: 220px;
+top: 615px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -242,17 +222,6 @@ line-height: 75px;
 color: #000000;
 }
 
-
-.rectangle{
-position: absolute;
-width: 317px;
-height: 190px;
-left: 180px;
-top: 733px;
-border-radius: 30px;
-
-background: #FFFFFF;
-}
 
 .card-title {
 position: absolute;
