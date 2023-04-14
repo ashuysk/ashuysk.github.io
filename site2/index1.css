@@ -12,7 +12,7 @@ position: relative;
 width: 1400px;
 height: 2106px;
 
-background: #F1F1F1;
+background: #FFFFFF;
 }
 
 
@@ -158,22 +158,22 @@ text-transform: uppercase;
 color: #000000;
 }
 
-
-
 .header-bth{
 position: absolute;
 width: 160px;
 height: 40px;
 left: 220px;
 top: 417px;
+
+background: #000000;
 }
 
 .header-button {
 position: absolute;
 width: 112px;
 height: 22px;
-left: 248px;
-top: 426px;
+left: 25px;
+top: 8px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -202,7 +202,6 @@ font-weight: 400;
 font-size: 55px;
 line-height: 75px;
 
-
 color: #000000;
 }
 
@@ -223,11 +222,12 @@ color: #000000;
 }
 
 
+
 .card-title {
 position: absolute;
 width: 84px;
 height: 68px;
-left: 208px;
+left: 220px;
 top: 758px;
 
 font-family: 'Open Sans';
@@ -236,15 +236,14 @@ font-weight: 400;
 font-size: 50px;
 line-height: 68px;
 
-
-color: #AAAAAA;
+color: #000000;
 }
 
 .card-desc{
 position: absolute;
 width: 191px;
 height: 69px;
-left: 208px;
+left: 220px;
 top: 823px;
 
 font-family: 'Open Sans';
@@ -252,11 +251,10 @@ font-style: normal;
 font-weight: 700;
 font-size: 12px;
 line-height: 28px;
-/* or 238% */
 
 text-transform: uppercase;
 
-color: #CACACA;
+color: #000000;
 }
 
 
@@ -264,27 +262,26 @@ color: #CACACA;
 position: absolute;
 width: 44px;
 height: 44px;
-left: 420px;
-top: 822px;
-border-radius: 30px;
+left: 432px;
+top: 823px;
 
-background: #636569;
-box-shadow: 0px 5px 20px rgba(174, 208, 102, 0.4);
+border-radius: 30px;
+background: #000000;
+
 }
 
 .ellipse-life {
 position: absolute;
 width: 9px;
 height: 22px;
-left: 438px;
-top: 833px;
+left: 450px;
+top: 834px;
 
 font-family: 'Open Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
 line-height: 22px;
-
 
 color: #FFFFFF;
 }
@@ -293,8 +290,8 @@ color: #FFFFFF;
 position: absolute;
 width: 47px;
 height: 22px;
-left: 418px;
-top: 866px;
+left: 430px;
+top: 867px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -302,40 +299,27 @@ font-weight: 400;
 font-size: 9px;
 line-height: 22px;
 
-color: #AFAFAF;
+color: #000000;
 }
 
 
-.rectangle2 {
-position: absolute;
-width: 317px;
-height: 190px;
-left: 540px;
-top: 733px;
-border-radius: 30px;
-
-background: #FFFFFF;
-}
 
 .card-variant2 {
 position: absolute;
 width: 44px;
 height: 44px;
-left: 780px;
+left: 740px;
 top: 822px;
 
-
-background: #636569;
-box-shadow: 0px 5px 20px rgba(174, 208, 102, 0.4);
-
 border-radius: 30px;
+background: #000000;
 }
 
 .ellipse-health {
 position: absolute;
 width: 9px;
 height: 16px;
-left: 798px;
+left: 758px;
 top: 833px;
 
 font-family: 'Open Sans';
@@ -344,7 +328,6 @@ font-weight: 400;
 font-size: 14px;
 line-height: 22px;
 
-
 color: #FFFFFF;
 }
 
@@ -352,7 +335,7 @@ color: #FFFFFF;
 position: absolute;
 width: 47px;
 height: 22px;
-left: 778px;
+left: 738px;
 top: 866px;
 
 font-family: 'Open Sans';
@@ -361,14 +344,14 @@ font-weight: 400;
 font-size: 9px;
 line-height: 22px;
 
-color: #AFAFAF;
+color: #000000;
 }
 
 .card-title2 {
 position: absolute;
 width: 178px;
 height: 39px;
-left: 560px;
+left: 520px;
 top: 780px;
 
 font-family: 'Open Sans';
@@ -378,14 +361,14 @@ font-size: 50px;
 line-height: 22px;
 
 
-color: #AAAAAA;
+color: #000000;
 }
 
 .card-desc2 {
 position: absolute;
 width: 209px;
 height: 69px;
-left: 560px;
+left: 520px;
 top: 822px;
 
 font-family: 'Open Sans';
@@ -396,39 +379,28 @@ line-height: 28px;
 
 text-transform: uppercase;
 
-color: #CACACA;
+color: #000000;
 }
 
-
-.rectangle3 {
-position: absolute;
-width: 317px;
-height: 190px;
-left: 902px;
-top: 733px;
-border-radius: 30px;
-
-background: #FFFFFF;
-}
 
 .card-variant3 {
 position: absolute;
 width: 44px;
 height: 44px;
-left: 1155px;
+left: 1045px;
 top: 824px;
-border-radius: 30px;
 
-background: #636569;
-box-shadow: 0px 5px 20px rgba(174, 208, 102, 0.4);
+background: #000000;
+
+border-radius: 30px;
 }
 
 .ellipse-personal{
 position: absolute;
 width: 15px;
 height: 22px;
-left: 1170px;
-top: 832px;
+left: 1060px;
+top: 833px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -443,7 +415,7 @@ color: #FFFFFF;
 position: absolute;
 width: 47px;
 height: 22px;
-left: 1153px;
+left: 1043px;
 top: 868px;
 
 font-family: 'Open Sans';
@@ -452,14 +424,14 @@ font-weight: 400;
 font-size: 9px;
 line-height: 22px;
 
-color: #AFAFAF;
+color: #000000;
 }
 
 .card-title3{
 position: absolute;
 width: 204px;
 height: 68px;
-left: 930px;
+left: 820px;
 top: 752px;
 
 font-family: 'Open Sans';
@@ -468,14 +440,14 @@ font-weight: 400;
 font-size: 50px;
 line-height: 68px;
 
-color: #AAAAAA;
+color: #000000;
 }
 
 .card-desc3{
 position: absolute;
 width: 234px;
 height: 69px;
-left: 930px;
+left: 820px;
 top: 817px;
 
 font-family: 'Open Sans';
@@ -486,7 +458,7 @@ line-height: 28px;
 
 text-transform: uppercase;
 
-color: #CACACA;
+color: #000000;
 }
 
 
@@ -495,7 +467,7 @@ color: #CACACA;
 position: absolute;
 width: 190px;
 height: 75px;
-left: 420px;
+left: 220px;
 top: 1043px;
 
 font-family: 'Open Sans';
@@ -511,7 +483,7 @@ color: #000000;
 position: absolute;
 width: 282px;
 height: 75px;
-left: 420px;
+left: 220px;
 top: 1094px;
 
 font-family: 'Open Sans';
@@ -523,96 +495,13 @@ line-height: 75px;
 color: #000000;
 }
 
-.vector{
-position: absolute;
-width: 960px;
-height: 0px;
-left: 207px;
-top: 1246px;
-
-border: 0.7px solid #AFAFAF;
-transform: rotate(-0.03deg);
-}
-
-.ellipse-big{
-position: absolute;
-width: 20px;
-height: 20px;
-left: 197px;
-top: 1236px;
-border-radius: 50%;
-
-background: #636569;
-opacity: 0.15;
-}
-
-.ellipse-small{
-position: absolute;
-width: 4px;
-height: 4px;
-left: 205px;
-top: 1244px;
-
-background: #AFAFAF;
-
-border-radius: 50%;
-}
-
-.ellipse-big2{
-position: absolute;
-width: 20px;
-height: 20px;
-left: 566px;
-top: 1236px;
-
-background: #636569;
-opacity: 0.15;
-border-radius: 50%;
-}
-
-.ellipse-small2{
-position: absolute;
-width: 4px;
-height: 4px;
-left: 574px;
-top: 1244px;
-
-background: #AFAFAF;
-border-radius: 50%;
-}
-
-.ellipse-big3{
-position: absolute;
-width: 20px;
-height: 20px;
-left: 941px;
-top: 1236px;
-
-background: #636569;
-opacity: 0.15;
-
-border-radius: 50%;
-}
-
-.ellipse-small3{
-position: absolute;
-width: 4px;
-height: 4px;
-left: 949px;
-top: 1244px;
-
-background: #AFAFAF;
-
-border-radius: 50%;
-}
-
 
 .delivery-suptitle{
 position: absolute;
 width: 164px;
 height: 22px;
-left: 205px;
-top: 1277px;
+left: 221px;
+top: 1191px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -620,15 +509,15 @@ font-weight: 600;
 font-size: 18px;
 line-height: 22px;
 
-color: #AAAAAA;
+color: #000000;
 }
 
 .delivery-desc{
 position: absolute;
 width: 248px;
 height: 88px;
-left: 206px;
-top: 1328px;
+left: 222px;
+top: 1242px;
 
 font-family: 'Montserrat';
 font-style: normal;
@@ -638,15 +527,15 @@ line-height: 22px;
 
 text-transform: uppercase;
 
-color: #9F9F9F;
+color: #000000;
 }
 
 .delivery-suptitle2 {
 position: absolute;
 width: 180px;
 height: 22px;
-left: 566px;
-top: 1277px;
+left: 582px;
+top: 1191px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -654,15 +543,15 @@ font-weight: 600;
 font-size: 18px;
 line-height: 22px;
 
-color: #AAAAAA;
+color: #000000;
 }
 
 .delivery-desc2 {
 position: absolute;
 width: 225px;
 height: 88px;
-left: 567px;
-top: 1328px;
+left: 583px;
+top: 1242px;
 
 font-family: 'Montserrat';
 font-style: normal;
@@ -672,15 +561,15 @@ line-height: 22px;
 
 text-transform: uppercase;
 
-color: #9F9F9F;
+color: #000000;
 }
 
 .delivery-suptitle3 {
 position: absolute;
 width: 278px;
 height: 22px;
-left: 941px;
-top: 1277px;
+left: 957px;
+top: 1191px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -688,15 +577,15 @@ font-weight: 600;
 font-size: 18px;
 line-height: 22px;
 
-color: #AAAAAA;
+color: #000000;
 }
 
 .delivery-desc3 {
 position: absolute;
 width: 235px;
 height: 88px;
-left: 941px;
-top: 1328px;
+left: 957px;
+top: 1242px;
 
 font-family: 'Montserrat';
 font-style: normal;
@@ -706,28 +595,18 @@ line-height: 22px;
 
 text-transform: uppercase;
 
-color: #9F9F9F;
+color: #000000;
 }
 
 
 
 
-.rectangle-form{
-position: absolute;
-width: 800px;
-height: 400px;
-left: 300px;
-top: 1514px;
-
-background: #FFFFFF;
-border-radius: 30px;
-}
 
 .form-subtitle{
 position: absolute;
 width: 434px;
 height: 48px;
-left: 354px;
+left: 483px;
 top: 1558px;
 
 font-family: 'Open Sans';
@@ -743,7 +622,7 @@ color: #000000;
 position: absolute;
 width: 278px;
 height: 66px;
-left: 355px;
+left: 484px;
 top: 1615px;
 
 font-family: 'Open Sans';
@@ -752,18 +631,17 @@ font-weight: 400;
 font-size: 14px;
 line-height: 22px;
 
-color: #9F9F9F;
+color: #000000;
 }
 
 .form-rectangle{
 position: absolute;
 width: 260px;
 height: 40px;
-left: 354px;
-top: 1714px;
+left: 484px;
+top: 1702px;
 
 background: #F1F1F1;
-box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.06);
 border-radius: 30px;
 }
 
@@ -771,8 +649,8 @@ border-radius: 30px;
 position: absolute;
 width: 59px;
 height: 22px;
-left: 376px;
-top: 1723px;
+left: 506px;
+top: 1711px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -780,15 +658,15 @@ font-weight: 400;
 font-size: 12px;
 line-height: 22px;
 
-color: #AFAFAF;
+color: #000000;
 }
 
 .form-rectangle2{
 position: absolute;
 width: 260px;
 height: 40px;
-left: 354px;
-top: 1768px;
+left: 484px;
+top: 1756px;
 
 background: #F1F1F1;
 box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.06);
@@ -799,8 +677,8 @@ border-radius: 30px;
 position: absolute;
 width: 66px;
 height: 22px;
-left: 376px;
-top: 1777px;
+left: 506px;
+top: 1765px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -808,35 +686,31 @@ font-weight: 400;
 font-size: 12px;
 line-height: 22px;
 
-color: #AFAFAF;
+color: #000000;
 }
 
 .form-button{
 position: absolute;
-Width: 180px;
-Height: 40px;
+width: 160px;
+height: 40px;
+left: 483px;
+top: 1818px;
 
-background: #636569;
-
-left: 354px;
-top: 1822px;
-
-box-shadow: 0px 10px 40px rgba(174, 208, 102, 0.4);
-border-radius: 30px;
+background: #000000;
 }
 
 .subtitle-button{
 position: absolute;
-left: 386px;
-top: 1830px;
-
+width: 112px;
+height: 22px;
+left: 507px;
+top: 1827px;
 
 font-family: 'Open Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 12px;
 line-height: 22px;
-
 
 color: #FFFFFF;
 }
@@ -845,7 +719,7 @@ color: #FFFFFF;
 position: absolute;
 width: 212px;
 height: 30px;
-left: 550px;
+left: 680px;
 top: 1827px;
 
 font-family: 'Open Sans';
@@ -858,5 +732,5 @@ color: #AFAFAF;
 }
 
 .colortext{
-color: #67734D;
+color: #000000;
 }
