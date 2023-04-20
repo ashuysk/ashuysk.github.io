@@ -7,9 +7,18 @@
 
 <body>
 
-<a href="https://ashuysk.github.io/site1/" target="_blank">верстка 1</a>
-<a href="https://ashuysk.github.io/site2/" target="_blank">верстка 2</a>
-<a href="https://ashuysk.github.io/site3/" target="_blank">верстка 3</a>
+<a href="https://ashuysk.github.io/site1/" target="site">верстка 1</a>
+<a href="https://ashuysk.github.io/site2/" target="site">верстка 2</a>
+<a href="https://ashuysk.github.io/site3/" target="site">верстка 3</a>
 
 </body>
+  <script>
+  const link = document.querySelector("a[target='site']");
+link.addEventListener(
+  "click",
+  (event) => {
+    openRequestedTab(link.href);
+    event.preventDefault();
+  }
+  </script>
 </html>
