@@ -7,17 +7,31 @@
 
 <body>
 
-<a href="https://ashuysk.github.io/site1/" target="site">верстка 1</a>
-<a href="https://ashuysk.github.io/site2/" target="site">верстка 2</a>
-<a href="https://ashuysk.github.io/site3/" target="site">верстка 3</a>
+<a href="https://ashuysk.github.io/site1/" target="site1">верстка 1</a>
+<a href="https://ashuysk.github.io/site2/" target="site2">верстка 2</a>
+<a href="https://ashuysk.github.io/site3/" target="site3">верстка 3</a>
 
 </body>
   <script>
-  const link = document.querySelector("a[target='site']");
-link.addEventListener(
+  const link1 = document.querySelector("a[target='site1']");
+link1.addEventListener(
   "click",
   (event) => {
-    openRequestedTab(link.href);
+    openRequestedTab(link1.href);
+    event.preventDefault();
+  }
+  const link2 = document.querySelector("a[target='site2']");
+link2.addEventListener(
+  "click",
+  (event) => {
+    openRequestedTab(link2.href);
+    event.preventDefault();
+  }
+  const link3 = document.querySelector("a[target='site3']");
+link3.addEventListener(
+  "click",
+  (event) => {
+    openRequestedTab(link3.href);
     event.preventDefault();
   }
   </script>
