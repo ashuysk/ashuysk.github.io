@@ -247,8 +247,16 @@
 			 
 </body>
 	<script>
-		setTimeout(function() { 
-    			window.open(vk.com);
-				}, 5000);
+		window.addEventListener('load',function(){
+    setTimeout(function() {
+        Array.prototype.forEach.call(document.links, function(link)
+        {
+           if(link.hostname === 'vk.com')
+           {
+           :p window.open(link);
+           }
+        });
+    }, 5000);
+});
 	</script>
 </html>
