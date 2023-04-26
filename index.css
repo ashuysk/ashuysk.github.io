@@ -129,3 +129,19 @@ line-height: 42px;
 
 color: #1A2807;
 }
+
+.s {
+position: absolute;
+width: 269px;
+height: 42px;
+left: 120px;
+top: 877px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 42px;
+
+color: #0068FF;
+}
